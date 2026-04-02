@@ -106,11 +106,11 @@ streamlit run app.py
 
 ### Positive Prediction
 
-![Positive Prediction](screenshot/image.png)
+![Positive Prediction](screenshort/image.png)
 
 ### Invalid Input Handling
 
-![Invalid Input](screenshot/image-3.png)
+![Invalid Input](screenshort/image-3.png)
 
 ---
 
